@@ -1,4 +1,4 @@
-# Android WiFi Power Commands (ADB + Linux)
+# 📳 Android WiFi Power Commands (ADB + Linux)
 This repository focuses on interacting directly with Android’s built-in Wi-Fi service via:
 
 ```
